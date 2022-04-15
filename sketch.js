@@ -12,7 +12,7 @@ function preload() {
   fundo = loadImage("./assets/planodefundo.png");
   imgCarro1 = loadImage("./assets/car1.png");
   imgCarro2 = loadImage("./assets/car2.png");
-  pista = loadImage("./assets/pista.png");
+  pista = loadImage("./assets/PISTA.png");
   imgTanque = loadImage("./assets/fuel.png");
   imgMoeda = loadImage("./assets/goldCoin.png");
   imgObs1 = loadImage("./assets/obstacle1.png");
